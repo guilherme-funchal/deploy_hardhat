@@ -27,7 +27,7 @@ main().catch((error) => {
   process.exitCode = 1;
 });
 
-<pre>
+</pre>
 
 **4)Criar o arquivo de configuração do Hardhat**
 <pre>
